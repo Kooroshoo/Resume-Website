@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Crafty+Girls&display=swap');
+
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Crafty Girls', cursive;
+}
+
+h1 {
+    font-size: 5rem;
+    margin: 20px auto 0;
+    color: #001c55;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #001c55;
+}
+
+h3 {
+    font-size: 2.5rem;
+    color: #001c55;
+}
+
+
+
+.top-container {    
+    
+}
+
+.intro-image {
+    width: 100%;
+}
+
+.top-container-content {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.middle-container {
+    margin-top: 50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 10%;
+    text-align: left;
+    line-height: 2rem;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+a {
+    font-size: 1.2rem;
+    margin: 10px 10px;
+}
+
+hr {
+    border: dotted #001c55 5px;
+    border-bottom: none;
+    width: 2%;
+
+}
+
+.paint-img {
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.music-img {
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.bottom-container {
+    background-color: #A0E7E5;
+    padding: 20px 0 10px;
+}
